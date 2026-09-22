@@ -1,0 +1,15 @@
+build/
+cmake-build-*/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+.vscode/
+*.user
+.DS_Store
+Thumbs.db
